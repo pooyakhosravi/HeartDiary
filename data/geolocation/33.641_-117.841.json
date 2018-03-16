@@ -1,0 +1,290 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2028-2034",
+               "short_name" : "2028-2034",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Los Trancos Drive",
+               "short_name" : "Los Trancos Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92617",
+               "short_name" : "92617",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2028-2034 Los Trancos Dr, Irvine, CA 92617, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6410493,
+                  "lng" : -117.8411923
+               },
+               "southwest" : {
+                  "lat" : 33.6408711,
+                  "lng" : -117.841211
+               }
+            },
+            "location" : {
+               "lat" : 33.6409846,
+               "lng" : -117.8411808
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6423091802915,
+                  "lng" : -117.8398526697085
+               },
+               "southwest" : {
+                  "lat" : 33.6396112197085,
+                  "lng" : -117.8425506302915
+               }
+            }
+         },
+         "place_id" : "Ei8yMDI4LTIwMzQgTG9zIFRyYW5jb3MgRHIsIElydmluZSwgQ0EgOTI2MTcsIFVTQQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faculty/Staff Housing Ofiice",
+               "short_name" : "Faculty/Staff Housing Ofiice",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92617",
+               "short_name" : "92617",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faculty/Staff Housing Ofiice, Irvine, CA 92617, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.64089,
+               "lng" : -117.841378
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6422389802915,
+                  "lng" : -117.8400290197085
+               },
+               "southwest" : {
+                  "lat" : 33.6395410197085,
+                  "lng" : -117.8427269802915
+               }
+            }
+         },
+         "place_id" : "ChIJwX78FwXe3IAR4Ms9yOXZq98",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irvine, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7736521,
+                  "lng" : -117.6780258
+               },
+               "southwest" : {
+                  "lat" : 33.5993914,
+                  "lng" : -117.8687519
+               }
+            },
+            "location" : {
+               "lat" : 33.6845673,
+               "lng" : -117.8265049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7736521,
+                  "lng" : -117.6780258
+               },
+               "southwest" : {
+                  "lat" : 33.5993914,
+                  "lng" : -117.8687519
+               }
+            }
+         },
+         "place_id" : "ChIJ40CRaA7d3IAROZpKYHW1eqc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92617",
+               "short_name" : "92617",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irvine, CA 92617, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.65499,
+                  "lng" : -117.821567
+               },
+               "southwest" : {
+                  "lat" : 33.63091,
+                  "lng" : -117.861187
+               }
+            },
+            "location" : {
+               "lat" : 33.6387024,
+               "lng" : -117.8370041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.65499,
+                  "lng" : -117.821567
+               },
+               "southwest" : {
+                  "lat" : 33.63091,
+                  "lng" : -117.861187
+               }
+            }
+         },
+         "place_id" : "ChIJEUL2kg_e3IARaDSFK2QFTHE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orange County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.94751189999999,
+                  "lng" : -117.4129869
+               },
+               "southwest" : {
+                  "lat" : 33.33399199999999,
+                  "lng" : -118.125901
+               }
+            },
+            "location" : {
+               "lat" : 33.7174708,
+               "lng" : -117.8311428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.94751189999999,
+                  "lng" : -117.4129869
+               },
+               "southwest" : {
+                  "lat" : 33.33399199999999,
+                  "lng" : -118.125901
+               }
+            }
+         },
+         "place_id" : "ChIJz_fVVFyS3IARB9bwj2HDpt4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,363 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside Freeway",
+               "short_name" : "CA-91",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92879",
+               "short_name" : "92879",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Riverside Fwy, Corona, CA 92879, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8825214,
+                  "lng" : -117.5443795
+               },
+               "southwest" : {
+                  "lat" : 33.8817057,
+                  "lng" : -117.5474081
+               }
+            },
+            "location" : {
+               "lat" : 33.8821252,
+               "lng" : -117.5458983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8834625302915,
+                  "lng" : -117.5443795
+               },
+               "southwest" : {
+                  "lat" : 33.8807645697085,
+                  "lng" : -117.5474081
+               }
+            }
+         },
+         "place_id" : "ChIJX_-UqeO33IARau-e98flLmU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Corona, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.91596,
+                  "lng" : -117.483803
+               },
+               "southwest" : {
+                  "lat" : 33.80272,
+                  "lng" : -117.6737489
+               }
+            },
+            "location" : {
+               "lat" : 33.8752935,
+               "lng" : -117.5664384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.91596,
+                  "lng" : -117.483803
+               },
+               "southwest" : {
+                  "lat" : 33.80272,
+                  "lng" : -117.6737489
+               }
+            }
+         },
+         "place_id" : "ChIJbWBd6rmw3IAR8VKS0g_RmIk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92879",
+               "short_name" : "92879",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Corona, CA 92879, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.910063,
+                  "lng" : -117.445352
+               },
+               "southwest" : {
+                  "lat" : 33.8145169,
+                  "lng" : -117.5699231
+               }
+            },
+            "location" : {
+               "lat" : 33.8813831,
+               "lng" : -117.5378439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.910063,
+                  "lng" : -117.5004719
+               },
+               "southwest" : {
+                  "lat" : 33.84977,
+                  "lng" : -117.5699231
+               }
+            }
+         },
+         "place_id" : "ChIJM_YW98O33IARJj75wPzh6TY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0798841,
+                  "lng" : -114.4349489
+               },
+               "southwest" : {
+                  "lat" : 33.425888,
+                  "lng" : -117.6762859
+               }
+            },
+            "location" : {
+               "lat" : 33.9532966,
+               "lng" : -117.3961192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0798841,
+                  "lng" : -114.4349489
+               },
+               "southwest" : {
+                  "lat" : 33.425888,
+                  "lng" : -117.6762859
+               }
+            }
+         },
+         "place_id" : "ChIJr3EqHoH12oARjSkNIFgUKF8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside-San Bernardino-Ontario, CA",
+               "short_name" : "Riverside-San Bernardino-Ontario, CA",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside-San Bernardino-Ontario, CA, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.809097,
+                  "lng" : -114.1344265
+               },
+               "southwest" : {
+                  "lat" : 33.425932,
+                  "lng" : -117.8028909
+               }
+            },
+            "location" : {
+               "lat" : 34.9592083,
+               "lng" : -116.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.809097,
+                  "lng" : -114.1344265
+               },
+               "southwest" : {
+                  "lat" : 33.425932,
+                  "lng" : -117.8028909
+               }
+            }
+         },
+         "place_id" : "ChIJsVgntPM5xYAR17AuvXq8jzI",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

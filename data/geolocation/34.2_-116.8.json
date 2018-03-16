@@ -1,0 +1,432 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "41960",
+               "short_name" : "41960",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Big Bear Boulevard",
+               "short_name" : "CA-18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "41960 Big Bear Blvd, Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2434936,
+                  "lng" : -116.8861031
+               },
+               "southwest" : {
+                  "lat" : 34.2433637,
+                  "lng" : -116.8869292
+               }
+            },
+            "location" : {
+               "lat" : 34.243969,
+               "lng" : -116.8869507
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.24477763029149,
+                  "lng" : -116.8851671697085
+               },
+               "southwest" : {
+                  "lat" : 34.2420796697085,
+                  "lng" : -116.8878651302915
+               }
+            }
+         },
+         "place_id" : "EjE0MTk2MCBCaWcgQmVhciBCbHZkLCBCaWcgQmVhciBMYWtlLCBDQSA5MjMxNSwgVVNB",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Summit Plaza",
+               "short_name" : "Summit Plaza",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Summit Plaza, Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2432799,
+               "lng" : -116.8867624
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.24462888029149,
+                  "lng" : -116.8854134197085
+               },
+               "southwest" : {
+                  "lat" : 34.24193091970849,
+                  "lng" : -116.8881113802915
+               }
+            }
+         },
+         "place_id" : "ChIJM-kkZ3e0xIARx9bbUTU8kbQ",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Big Bear Lake, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2650438,
+                  "lng" : -116.842733
+               },
+               "southwest" : {
+                  "lat" : 34.22456,
+                  "lng" : -116.9625011
+               }
+            },
+            "location" : {
+               "lat" : 34.2438963,
+               "lng" : -116.9114215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2650438,
+                  "lng" : -116.842733
+               },
+               "southwest" : {
+                  "lat" : 34.22456,
+                  "lng" : -116.9625011
+               }
+            }
+         },
+         "place_id" : "ChIJZYdwAomzxIARv1O7X3ZFbfQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2666959,
+                  "lng" : -116.866093
+               },
+               "southwest" : {
+                  "lat" : 34.222529,
+                  "lng" : -116.944939
+               }
+            },
+            "location" : {
+               "lat" : 34.2428813,
+               "lng" : -116.9087014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.258021,
+                  "lng" : -116.873946
+               },
+               "southwest" : {
+                  "lat" : 34.222529,
+                  "lng" : -116.944939
+               }
+            }
+         },
+         "place_id" : "ChIJyShFyYizxIARAy_dzrZwoa8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Bernardino County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8092361,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 33.8708309,
+                  "lng" : -117.8028909
+               }
+            },
+            "location" : {
+               "lat" : 34.9592083,
+               "lng" : -116.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8092361,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 33.8708309,
+                  "lng" : -117.8028909
+               }
+            }
+         },
+         "place_id" : "ChIJ5Rsx6IoqxYARyu0YyduLQwo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside-San Bernardino-Ontario, CA",
+               "short_name" : "Riverside-San Bernardino-Ontario, CA",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside-San Bernardino-Ontario, CA, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.809097,
+                  "lng" : -114.1344265
+               },
+               "southwest" : {
+                  "lat" : 33.425932,
+                  "lng" : -117.8028909
+               }
+            },
+            "location" : {
+               "lat" : 34.9592083,
+               "lng" : -116.419389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.809097,
+                  "lng" : -114.1344265
+               },
+               "southwest" : {
+                  "lat" : 33.425932,
+                  "lng" : -117.8028909
+               }
+            }
+         },
+         "place_id" : "ChIJsVgntPM5xYAR17AuvXq8jzI",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            },
+            "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0095169,
+                  "lng" : -114.131211
+               },
+               "southwest" : {
+                  "lat" : 32.528832,
+                  "lng" : -124.482003
+               }
+            }
+         },
+         "place_id" : "ChIJPV4oX_65j4ARVW8IJ6IJUYs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.38,
+                  "lng" : -66.94
+               },
+               "southwest" : {
+                  "lat" : 25.82,
+                  "lng" : -124.39
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
