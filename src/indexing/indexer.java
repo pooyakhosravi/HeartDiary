@@ -28,7 +28,7 @@ public class indexer {
 		MyJsonParser parser = new MyJsonParser();
 		initJsonBuilders();
 		
-		parser.loadFile("data\\userdata.json");
+		parser.loadFile("data/userdata.json");
 		
 		JsonObject indexedData = new JsonObject();
 		JsonObject locData = new JsonObject();

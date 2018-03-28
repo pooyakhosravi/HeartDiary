@@ -16,11 +16,12 @@ import parsing.MyJsonParser;
  */
 public class GoogleGeolocationAPI {
 	private static String GOOGLE_GEOLOCATION_BASE_URL = "https://maps.googleapis.com/maps/api/geocode/json?latlng=";
-	private static String GOOGLE_GEOLOCATION_API_KEY = "AIzaSyCLgnQ3EvzaPDc1Ca9QrXUkHaCcEdfcjLQ";
+	private static String GOOGLE_GEOLOCATION_API_KEY = "AIzaSyDSIl-PmUEdMgAEIsAzHCXBdJkYIhqUqFs";
+	//private static String GOOGLE_GEOLOCATION_API_KEY = "AIzaSyCLgnQ3EvzaPDc1Ca9QrXUkHaCcEdfcjLQ";
 	
 	// Caching to 3rd decimal place
-	private static int DECIMAL_DEGREE = 2;
-	MyJsonParser jsonParser;
+	private static int DECIMAL_DEGREE = 4;
+	public MyJsonParser jsonParser;
 	
 	public GoogleGeolocationAPI() {
 		this.jsonParser = new MyJsonParser();
